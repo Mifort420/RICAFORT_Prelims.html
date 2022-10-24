@@ -1,0 +1,30 @@
+*
+h1 { text-align: center;
+color: rgba(236, 12, 79, 0.856);
+display: block;
+font-size: 5em;
+margin-top: 0.67em;
+margin-bottom: 0.67em;
+margin-left: 0;
+margin-right: 0;
+font-weight: bold;
+  }
+
+
+#nav-bar
+{
+    position: sticky;
+    top: 10;
+    z-index: 10;
+}
+
+
+
+.navbar {
+ 
+justify-content: space-between;
+width: 100%;
+background-image: radial-gradient(#111e68, rgb(32, 26, 90));
+opacity: 80%;
+
+}
